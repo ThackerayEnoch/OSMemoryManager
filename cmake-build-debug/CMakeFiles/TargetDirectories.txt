@@ -1,0 +1,5 @@
+C:/Users/ThackerayEnoch/Desktop/计科2202_202231222024_张鹏飞_/OperatingSystemWorkQtVersion/cmake-build-debug/CMakeFiles/OperatingSystemWorkQtVersion.dir
+C:/Users/ThackerayEnoch/Desktop/计科2202_202231222024_张鹏飞_/OperatingSystemWorkQtVersion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ThackerayEnoch/Desktop/计科2202_202231222024_张鹏飞_/OperatingSystemWorkQtVersion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ThackerayEnoch/Desktop/计科2202_202231222024_张鹏飞_/OperatingSystemWorkQtVersion/cmake-build-debug/CMakeFiles/OperatingSystemWorkQtVersion_autogen_timestamp_deps.dir
+C:/Users/ThackerayEnoch/Desktop/计科2202_202231222024_张鹏飞_/OperatingSystemWorkQtVersion/cmake-build-debug/CMakeFiles/OperatingSystemWorkQtVersion_autogen.dir

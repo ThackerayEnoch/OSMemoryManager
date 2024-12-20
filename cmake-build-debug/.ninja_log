@@ -1,0 +1,10 @@
+# ninja log v6
+20	220	7562122080921200	OperatingSystemWorkQtVersion_autogen/timestamp	b6025151a94e6b4
+221	886	7562122082924260	CMakeFiles/OperatingSystemWorkQtVersion.dir/Sources/manageToQt.cpp.obj	ef057e5cec567255
+1262	5578	7562121886028033	CMakeFiles/OperatingSystemWorkQtVersion.dir/Sources/mainwindow.cpp.obj	eaf2fa4d219fcb28
+887	1721	7562122089589005	OperatingSystemWorkQtVersion.exe	d04c950b3f4bcb83
+1247	3909	7562121885881672	CMakeFiles/OperatingSystemWorkQtVersion.dir/main.cpp.obj	63b2f2c62b38f885
+20	220	7562122080921200	OperatingSystemWorkQtVersion_autogen/mocs_compilation.cpp	b6025151a94e6b4
+1238	3728	7562121885791794	CMakeFiles/OperatingSystemWorkQtVersion.dir/OperatingSystemWorkQtVersion_autogen/mocs_compilation.cpp.obj	8e58ce9818452b81
+11	715	7564087228804228	build.ninja	62bdc4849b3f1f73
+281	968	7562122016426515	CMakeFiles/OperatingSystemWorkQtVersion.dir/MemoryManager/MemoryManager.cpp.obj	83d446eb61ec7758

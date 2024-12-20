@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "OperatingSystemWorkQtVersion",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "OperatingSystemWorkQtVersion::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OperatingSystemWorkQtVersion-Debug-45f03e5ce6c8d70ecf19.json",
+					"name" : "OperatingSystemWorkQtVersion",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OperatingSystemWorkQtVersion_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OperatingSystemWorkQtVersion_autogen-Debug-8ff5c0620724fd147ced.json",
+					"name" : "OperatingSystemWorkQtVersion_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OperatingSystemWorkQtVersion_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OperatingSystemWorkQtVersion_autogen_timestamp_deps-Debug-08ade875f4bd938469c5.json",
+					"name" : "OperatingSystemWorkQtVersion_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ThackerayEnoch/Desktop/\u8ba1\u79d12202_202231222024_\u5f20\u9e4f\u98de_/OperatingSystemWorkQtVersion/cmake-build-debug",
+		"source" : "C:/Users/ThackerayEnoch/Desktop/\u8ba1\u79d12202_202231222024_\u5f20\u9e4f\u98de_/OperatingSystemWorkQtVersion"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
